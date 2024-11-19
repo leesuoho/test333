@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("dev생성");
         int x;
+        int y;
     }
 }
