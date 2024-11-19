@@ -5,5 +5,6 @@ public class Main {
         System.out.println("dev생성");
         int x;
         int y;
+        int z;
     }
 }
