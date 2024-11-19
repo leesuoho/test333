@@ -2,9 +2,11 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("dev생성");
-        int x;
-        int y;
-        int z;
-    }
+        System.out.println("d2");
+        System.out.println("3");
+        System.out.println("4");
+        System.out.println("4");
+        System.out.println("3");
+        System.out.println("77");
+            }
 }
